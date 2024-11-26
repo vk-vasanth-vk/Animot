@@ -55,7 +55,8 @@ Step 4: <br />
 
 # Limitations and Future Plans
   As this is my first web project, i developed this with raw HTML,CSS,PHP and without the help of any modern framworks, so the code structure and the naming conventions might be little bit terrible, Sry for that.
-  It only contains limited resources, 3 pages for each categories. I'm planning to integrate API to provide more contents and details in the future, and also moving to modern web technologies to make more responsive pages. Contributions are welcomed!
+  It only contains limited resources, 3 pages for each categories. I'm planning to integrate API to provide more contents and details in the future, and also moving to modern web technologies to make more responsive pages. <br />
+  **Contributions are welcomed!**
 
 # Need a help ?
   If you're facing any issues while installation, development, hosting or want to contribute to this project just send me a message to ``` vasanthakumartncbe@gmail.com ``` i would be happy to help you if you need.
