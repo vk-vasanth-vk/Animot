@@ -10,6 +10,7 @@ I have developed an web application to provide ratings, short description and th
 ## Languages
 * HTML
 * CSS
+* JS
 * PHP
 * MySQL <br />
 
